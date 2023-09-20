@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "features": [
+      "Access to gym facilities",
+      "Standard workout equipment",
+      "Limited gym hours",
+      "Access to locker room"
+    ],
+    "price": 29.99
+  },
+  {
+    "id": 2,
+    "name": "Silver Membership",
+    "features": [
+      "Access to gym facilities",
+      "Standard workout equipment",
+      "Limited gym hours",
+      "Access to locker room"
+    ],
+    "price": 49.99
+  },
+  {
+    "id": 3,
+    "name": "Gold Membership",
+    "features": [
+      "Access to gym facilities",
+      "Full range of workout equipment",
+      "Extended gym hours",
+      "Group fitness classes",
+      "Access to locker room"
+    ],
+    "price": 79.99
+  }
+]
