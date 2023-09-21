@@ -8,7 +8,7 @@ const PriceOptions = () => {
       .then((res) => res.json())
       .then((data) => setPriceOptions(data));
   }, []);
-  console.log(priceOptions);
+  //   console.log(priceOptions);
 
   return (
     <div className="m-12">
